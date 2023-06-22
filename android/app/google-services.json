@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73892315652",
+    "project_id": "expense-tracer-abbf6",
+    "storage_bucket": "expense-tracer-abbf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73892315652:android:182c2be9cac11338ebeb51",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73892315652-1u5jnilde1n772gr3u13jdjhknnd7gjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCroauwTZ65bclBCjNF0SwZgjMkawpelCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73892315652-1u5jnilde1n772gr3u13jdjhknnd7gjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
